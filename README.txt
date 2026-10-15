@@ -1,1 +1,5 @@
-Encrypted project delivery: interface design refinements. Navy/teal identity retained; full-page payment composition, calmer guidance/notifications, mobile allocation cards and readable navigation. Includes code, screenshots, validation and rollback. Financial, authentication and database service code unchanged from previous delivery. Obtain the AES-256 ZIP password from the owner in the original chat. Main branch untouched.
+Aram Studio 1.0.0
+Install aram-studio.zip without extracting in Master > Settings > Theme.
+Preview before activation. Use return to previous theme for rollback.
+Contains only theme.json and theme.css; no executable code or credentials.
+Tested with the project ThemeManager installer and Chromium on the actual ledger at 320, 390, 1440 pixels in dark and light modes.
